@@ -6,5 +6,5 @@ I experimented three RNN architectures on 3 datasets while generating meaning re
 
 ### Datasets ###
 * Shakespeare Text
-* LaTeX files from [Named Link](https://stacks.math.columbia.edu/ "The Stacks Project")
-* Trump's Tweets @readldonaldtrump from [Named Link](https://www.kaggle.com/austinreese/trump-tweets "Kaggle")
+* LaTeX files from [The Stacks Project](https://stacks.math.columbia.edu/ "The Stacks Project")
+* Trump's Tweets @readldonaldtrump from [Kaggle](https://www.kaggle.com/austinreese/trump-tweets "Kaggle")
