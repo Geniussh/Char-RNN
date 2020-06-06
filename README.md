@@ -1,5 +1,5 @@
 # Char-RNN
-Recurrent Neural Networks as Character-level Language Models
+## Recurrent Neural Networks as Character-level Language Models ##
 
 Recurrent Neural Networks (RNNs) have been proved to be a powerful approach to character-level language models. 
 
